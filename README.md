@@ -23,6 +23,9 @@
 <br>
 <a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="10" width="20" /> santtiagomc</a>
     </ul>
+<br>
+<a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="10" width="20" /> santtiagomc</a>
+    </ul>
 
 
 
