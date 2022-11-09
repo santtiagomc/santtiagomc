@@ -24,7 +24,7 @@
 <a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> santtiagomc</a>
     </ul>
 <br>
-<a href="mailto:santtiagomc@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="30" /> santtiagomc</a>
+<a href="mailto:santtiagomc@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="30" /> santtiagomc@gmail.com</a>
     </ul>
 
 
