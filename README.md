@@ -9,11 +9,9 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Figma</li>
   <li>React</li>
   <li>Redux</li>
   <li>Sequelize</li>
-  <li>Node.js</li>
   <li>Node.js</li>
   <li>Bootstrap</li>
   <li>PostgreSQL</li>
