@@ -19,12 +19,12 @@
 
 <h3 align="left">Contáctame en:</h3>
 
-<a href="https://linkedin.com/in/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="10" width="20" /> Santiago Parra</a>
+<a href="https://linkedin.com/in/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Santiago Parra</a>
 <br>
-<a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="10" width="20" /> santtiagomc</a>
+<a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marce_utria" height="20" width="30" /> santtiagomc</a>
     </ul>
 <br>
-<a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="10" width="20" /> santtiagomc</a>
+<a href="https://instagram.com/santtiagomc" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="20" /> santtiagomc</a>
     </ul>
 
 
